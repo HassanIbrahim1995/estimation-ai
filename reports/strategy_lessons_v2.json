@@ -1,0 +1,22 @@
+{
+  "selfplay": {
+    "1": {
+      "action": 12,
+      "expected": 10
+    },
+    "2": {
+      "action": 12,
+      "expected": 12
+    }
+  },
+  "neural_v2": {
+    "1": {
+      "action": 12,
+      "expected": 10
+    },
+    "2": {
+      "action": 12,
+      "expected": 12
+    }
+  }
+}

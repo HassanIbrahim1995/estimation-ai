@@ -1,0 +1,15 @@
+{
+  "examples": 512,
+  "training_examples": 409,
+  "heldout_examples": 103,
+  "samples_per_action": 8,
+  "epochs": 100,
+  "baseline_teacher_regret": 7.75242718446602,
+  "taught_teacher_regret": 7.195388349514563,
+  "sampler": "randomized feasible bipartite matching; not uniform posterior",
+  "hidden_information": "teacher receives public observation plus own hand only",
+  "gameplay_validation_before": 1.5671296296296298,
+  "gameplay_validation_after": 2.4768518518518516,
+  "promoted": true,
+  "elapsed_seconds": 41.98
+}

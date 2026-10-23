@@ -1,0 +1,30 @@
+test_all_pass_carries_multiplier (test_game.RulesTests.test_all_pass_carries_multiplier) ... ok
+test_dash_and_risk_scoring (test_game.RulesTests.test_dash_and_risk_scoring) ... ok
+test_dash_limit_and_zero_estimate (test_game.RulesTests.test_dash_limit_and_zero_estimate) ... ok
+test_deal_is_full_unique_deck (test_game.RulesTests.test_deal_is_full_unique_deck) ... ok
+test_fixed_rounds_and_super_override (test_game.RulesTests.test_fixed_rounds_and_super_override) ... ok
+test_follow_suit_is_mandatory (test_game.RulesTests.test_follow_suit_is_mandatory) ... ok
+test_full_match (test_game.RulesTests.test_full_match) ... ok
+test_invalid_terminal_scores_rejected (test_game.RulesTests.test_invalid_terminal_scores_rejected) ... ok
+test_last_estimate_cannot_sum_to_13 (test_game.RulesTests.test_last_estimate_cannot_sum_to_13) ... ok
+test_many_games_preserve_cards_and_legality (test_game.RulesTests.test_many_games_preserve_cards_and_legality) ... ok
+test_model_roundtrip (test_game.RulesTests.test_model_roundtrip) ... ok
+test_observation_does_not_expose_other_hands (test_game.RulesTests.test_observation_does_not_expose_other_hands) ... ok
+test_score_and_double (test_game.RulesTests.test_score_and_double) ... ok
+test_trump_and_no_trump_winners (test_game.RulesTests.test_trump_and_no_trump_winners) ... ok
+test_evidence_can_change_target_but_noisy_evidence_cannot (test_neural.NeuralTeachingTests.test_evidence_can_change_target_but_noisy_evidence_cannot) ... ok
+test_identical_policy_paired_validation_has_zero_delta (test_neural.NeuralTeachingTests.test_identical_policy_paired_validation_has_zero_delta) ... ok
+test_missing_uncertainty_does_not_teach_overconfident_correction (test_neural.NeuralTeachingTests.test_missing_uncertainty_does_not_teach_overconfident_correction) ... ok
+test_wrong_pairing_baseline_does_not_teach (test_neural.NeuralTeachingTests.test_wrong_pairing_baseline_does_not_teach) ... ok
+test_duck_now_when_one_trick_needed (test_strategy.StrategyLessons.test_duck_now_when_one_trick_needed) ... ok
+test_lesson_outcomes_hold_for_every_sampled_allocation (test_strategy.StrategyLessons.test_lesson_outcomes_hold_for_every_sampled_allocation) ... ok
+test_take_now_when_both_tricks_needed (test_strategy.StrategyLessons.test_take_now_when_both_tricks_needed) ... ok
+test_reconstruction_matches_public_observation (test_teacher.TeacherTests.test_reconstruction_matches_public_observation) ... ok
+test_sampled_rollout_is_legal_to_terminal (test_teacher.TeacherTests.test_sampled_rollout_is_legal_to_terminal) ... ok
+test_samples_preserve_private_hand_voids_and_counts (test_teacher.TeacherTests.test_samples_preserve_private_hand_voids_and_counts) ... ok
+test_teacher_never_reads_real_opponent_hands (test_teacher.TeacherTests.test_teacher_never_reads_real_opponent_hands) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 0.499s
+
+OK

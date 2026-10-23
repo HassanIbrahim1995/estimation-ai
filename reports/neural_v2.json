@@ -1,0 +1,25 @@
+{
+  "architecture": "22 features -> 32 tanh units -> scalar residual action score",
+  "neural_parameters": 768,
+  "training_examples": 819,
+  "heldout_examples": 205,
+  "epochs": 200,
+  "selected_epoch": 20,
+  "teacher_regret_before": 5.175203252032521,
+  "teacher_regret_after": 4.91839430894309,
+  "promoted": false,
+  "training_seed": 67221,
+  "validation_seed_start": 740000,
+  "data_sha256": "1ddb9e386d2f01ab8e529d392e9fbc7888aa49acaf7a841000261ebdc66a0579",
+  "confident_teacher_corrections": 127,
+  "confidence_note": "Normal approximation over paired seed blocks; selection set, not final test.",
+  "gameplay_score_advantage_before": 4.163336342344337e-17,
+  "gameplay_score_advantage_after": 0.1579861111111111,
+  "paired_improvement": 0.15798611111111105,
+  "paired_improvement_approx_95pct_ci": [
+    -1.3047521328311609,
+    1.6207243550533827
+  ],
+  "validation_seed_blocks": 144,
+  "validation_deals_per_model": 576
+}

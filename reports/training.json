@@ -1,0 +1,272 @@
+[
+  {
+    "generation": 1,
+    "training_fitness": 2.9120370370370368,
+    "validation_fitness": -0.8773148148148143,
+    "best_validation": 1.9560185185185186,
+    "accepted": false,
+    "simulated_deals": 1152,
+    "elapsed_seconds": 8.38
+  },
+  {
+    "generation": 2,
+    "training_fitness": 1.8888888888888888,
+    "validation_fitness": 3.0277777777777777,
+    "best_validation": 3.0277777777777777,
+    "accepted": true,
+    "simulated_deals": 2160,
+    "elapsed_seconds": 18.4
+  },
+  {
+    "generation": 3,
+    "training_fitness": 1.7037037037037044,
+    "validation_fitness": 3.0277777777777777,
+    "best_validation": 3.0277777777777777,
+    "accepted": false,
+    "simulated_deals": 3168,
+    "elapsed_seconds": 25.52
+  },
+  {
+    "generation": 4,
+    "training_fitness": 7.0925925925925934,
+    "validation_fitness": 4.840277777777777,
+    "best_validation": 4.840277777777777,
+    "accepted": true,
+    "simulated_deals": 4176,
+    "elapsed_seconds": 31.43
+  },
+  {
+    "generation": 5,
+    "training_fitness": 8.25925925925926,
+    "validation_fitness": 4.060185185185186,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 5184,
+    "elapsed_seconds": 38.08
+  },
+  {
+    "generation": 6,
+    "training_fitness": 1.6712962962962967,
+    "validation_fitness": 0.19675925925925952,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 6192,
+    "elapsed_seconds": 45.53
+  },
+  {
+    "generation": 7,
+    "training_fitness": 2.935185185185185,
+    "validation_fitness": 4.840277777777777,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 7200,
+    "elapsed_seconds": 51.24
+  },
+  {
+    "generation": 8,
+    "training_fitness": 2.268518518518519,
+    "validation_fitness": 0.5439814814814817,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 8208,
+    "elapsed_seconds": 57.05
+  },
+  {
+    "generation": 9,
+    "training_fitness": 3.106481481481481,
+    "validation_fitness": 2.0532407407407414,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 9216,
+    "elapsed_seconds": 63.06
+  },
+  {
+    "generation": 10,
+    "training_fitness": 6.412037037037037,
+    "validation_fitness": 4.840277777777777,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 10224,
+    "elapsed_seconds": 69.21
+  },
+  {
+    "generation": 11,
+    "training_fitness": 3.587962962962963,
+    "validation_fitness": 2.2870370370370363,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 11232,
+    "elapsed_seconds": 74.99
+  },
+  {
+    "generation": 12,
+    "training_fitness": 3.078703703703704,
+    "validation_fitness": -0.3819444444444442,
+    "best_validation": 4.840277777777777,
+    "accepted": false,
+    "simulated_deals": 12240,
+    "elapsed_seconds": 85.05
+  },
+  {
+    "generation": 13,
+    "training_fitness": 2.9259259259259256,
+    "validation_fitness": 5.412037037037038,
+    "best_validation": 5.412037037037038,
+    "accepted": true,
+    "simulated_deals": 13248,
+    "elapsed_seconds": 91.9
+  },
+  {
+    "generation": 14,
+    "training_fitness": 2.5416666666666665,
+    "validation_fitness": 1.9629629629629628,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 14256,
+    "elapsed_seconds": 98.13
+  },
+  {
+    "generation": 15,
+    "training_fitness": -0.49537037037037024,
+    "validation_fitness": 4.418981481481482,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 15264,
+    "elapsed_seconds": 106.75
+  },
+  {
+    "generation": 16,
+    "training_fitness": 2.625,
+    "validation_fitness": 5.412037037037038,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 16272,
+    "elapsed_seconds": 112.47
+  },
+  {
+    "generation": 17,
+    "training_fitness": 4.148148148148148,
+    "validation_fitness": 3.298611111111111,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 17280,
+    "elapsed_seconds": 118.46
+  },
+  {
+    "generation": 18,
+    "training_fitness": 3.217592592592593,
+    "validation_fitness": 4.233796296296297,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 18288,
+    "elapsed_seconds": 128.53
+  },
+  {
+    "generation": 19,
+    "training_fitness": 4.032407407407407,
+    "validation_fitness": 3.7013888888888897,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 19296,
+    "elapsed_seconds": 137.62
+  },
+  {
+    "generation": 20,
+    "training_fitness": 3.712962962962962,
+    "validation_fitness": 4.12037037037037,
+    "best_validation": 5.412037037037038,
+    "accepted": false,
+    "simulated_deals": 20304,
+    "elapsed_seconds": 143.34
+  },
+  {
+    "generation": 21,
+    "training_fitness": 8.064814814814817,
+    "validation_fitness": 6.118055555555555,
+    "best_validation": 6.118055555555555,
+    "accepted": true,
+    "simulated_deals": 21312,
+    "elapsed_seconds": 149.22
+  },
+  {
+    "generation": 22,
+    "training_fitness": 1.1203703703703698,
+    "validation_fitness": 4.289351851851852,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 22320,
+    "elapsed_seconds": 155.27
+  },
+  {
+    "generation": 23,
+    "training_fitness": 5.1990740740740735,
+    "validation_fitness": 3.787037037037038,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 23328,
+    "elapsed_seconds": 161.46
+  },
+  {
+    "generation": 24,
+    "training_fitness": 5.749999999999999,
+    "validation_fitness": 3.8148148148148158,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 24336,
+    "elapsed_seconds": 167.37
+  },
+  {
+    "generation": 25,
+    "training_fitness": 5.375,
+    "validation_fitness": 4.268518518518519,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 25344,
+    "elapsed_seconds": 175.93
+  },
+  {
+    "generation": 26,
+    "training_fitness": 4.314814814814815,
+    "validation_fitness": 4.814814814814814,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 26352,
+    "elapsed_seconds": 182.99
+  },
+  {
+    "generation": 27,
+    "training_fitness": 1.7916666666666667,
+    "validation_fitness": 3.921296296296296,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 27360,
+    "elapsed_seconds": 189.16
+  },
+  {
+    "generation": 28,
+    "training_fitness": 2.87962962962963,
+    "validation_fitness": 4.622685185185185,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 28368,
+    "elapsed_seconds": 194.75
+  },
+  {
+    "generation": 29,
+    "training_fitness": 3.9907407407407414,
+    "validation_fitness": 5.055555555555555,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 29376,
+    "elapsed_seconds": 201.17
+  },
+  {
+    "generation": 30,
+    "training_fitness": 6.041666666666667,
+    "validation_fitness": 4.479166666666667,
+    "best_validation": 6.118055555555555,
+    "accepted": false,
+    "simulated_deals": 30384,
+    "elapsed_seconds": 207.4
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "architecture": "22 features -> 32 tanh units -> scalar residual action score",
+  "neural_parameters": 768,
+  "training_examples": 409,
+  "heldout_examples": 103,
+  "epochs": 200,
+  "selected_epoch": 120,
+  "teacher_regret_before": 4.5593311758360295,
+  "teacher_regret_after": 4.952804746494067,
+  "validation_deals": 576,
+  "gameplay_score_advantage_before": -1.6394675925925926,
+  "gameplay_score_advantage_after": -1.3559027777777777,
+  "promoted": false,
+  "training_seed": 67221
+}
