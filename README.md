@@ -152,4 +152,3 @@ in this release.
 5. Brown et al., *Combining Deep Reinforcement Learning and Search for
    Imperfect-Information Games* (2020): https://arxiv.org/abs/2007.13544
 
-Independent project; no Pocket Estimation code, assets or accounts are used.
